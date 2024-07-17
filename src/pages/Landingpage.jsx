@@ -37,7 +37,7 @@ function Landing() {
           </Col>
           <Col md={4} className=' d-flex justify-content-center align-items-center mt-3'>
               <Card style={{ width: '18rem',height:'450px' }} className='p-3'>
-                <Card.Img variant="top" src="https://media1.tenor.com/images/018d7b37b92de9de39a83b671b2e3564/tenor.gif?itemid=11755946" />
+                <Card.Img variant="top" src="https://cdn.dribbble.com/users/1237300/screenshots/6478927/__-1_1_____.gif" />
                 <Card.Body>
                   <Card.Title>Card Title</Card.Title>
                   <Card.Text>
@@ -49,7 +49,7 @@ function Landing() {
           </Col>
           <Col md={3} className=' d-flex justify-content-center align-items-center mt-3'>
               <Card style={{ width: '18rem',height:'450px' }} className='p-3'>
-                <Card.Img variant="top" src="https://media1.tenor.com/images/4d5fdb6c20630ca254865fd9ba781bd2/tenor.gif?itemid=14460643" height={'255px'}/>
+                <Card.Img variant="top" src="https://www.icegif.com/wp-content/uploads/2024/01/icegif-109.gif" height={'255px'}/>
                 <Card.Body>
                   <Card.Title>Card Title</Card.Title>
                   <Card.Text>
