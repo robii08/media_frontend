@@ -15,7 +15,7 @@ function Landing() {
         </Col>
         <Col md={1} ></Col>
         <Col md={5} className='d-flex justify-content-center align-items-center'>
-          <img src="https://img1.picmix.com/output/stamp/normal/4/8/3/5/1435384_54f6a.gif" alt="" className='w-75 pt-3' height={'80%'} />
+          <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-225.gif" alt="" className='w-75 pt-3' height={'80%'} />
         </Col>
       </Row>
 
